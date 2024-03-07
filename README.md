@@ -14,7 +14,7 @@ Smart ATS is a tool designed to enhance the efficiency of the resume review proc
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hardikjp7/ResumeMatcher-ATS
+git clone [https://github.com/hardikjp7/ResumeMatcher-ATS](https://github.com/msaiprathyush/ats)
 cd ResumeMatcher-ATS
 ```
 
